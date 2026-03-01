@@ -8,7 +8,7 @@ class Student {
     }
 }
 
-class Main {
+public class OOPExample {
     public static void main(String[] args) {
 
         Student s1 = new Student();
