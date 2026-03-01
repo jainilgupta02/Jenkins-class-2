@@ -9,7 +9,7 @@ class Student {
 }
 
 class Main {
-    public static void main(String[] args) {
+    class static void main(String[] args) {
 
         Student s1 = new Student();
         s1.name = "Jay";
