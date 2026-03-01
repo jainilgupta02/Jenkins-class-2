@@ -1,7 +1,7 @@
 class Student {
     String name;
     int age;
-    string study
+    string study;
 
     void display() {
         System.out.println("Name: " + name);
